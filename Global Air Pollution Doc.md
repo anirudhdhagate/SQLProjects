@@ -46,7 +46,6 @@ The SQL queries used to answer the analysis questions are provided in the SQLQue
 ## Results and Insights
 
 The results of the analysis are summarized in the project documentation. Key insights include:
-- The cities with the highest average AQI values are primarily located in densely populated urban areas.
 - There is variation in air quality across different countries, with some countries consistently showing higher or lower AQI values.
 - Pollutant concentrations vary by city and country, with some cities experiencing higher levels of specific pollutants such as CO or PM2.5.
 
