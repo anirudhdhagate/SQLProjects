@@ -41,7 +41,7 @@ The following questions were addressed in this analysis:
 
 ## SQL Queries
 
-The SQL queries used to answer the analysis questions are provided in the [`queries.sql`](queries.sql) file.
+The SQL queries used to answer the analysis questions are provided in the SQLQuery2.sql file.
 
 ## Results and Insights
 
